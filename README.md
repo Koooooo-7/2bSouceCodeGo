@@ -1,4 +1,4 @@
-### B站精华
+### B站精华，期待有UP主有代码讲解。
 
 ##### 项目规范
 1,每个目录 需要有独立的README.md  CHANGELOG.md CONTRIBUTORS.md，具体可以参考：
