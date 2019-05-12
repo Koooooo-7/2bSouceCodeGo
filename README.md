@@ -1,4 +1,4 @@
-### Kratos
+### B站精华
 
 ##### 项目规范
 1,每个目录 需要有独立的README.md  CHANGELOG.md CONTRIBUTORS.md，具体可以参考：
